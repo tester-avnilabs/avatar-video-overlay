@@ -1,0 +1,9 @@
+{
+  "presentation_video": "presentation.mp4",
+  "avatar_video": "avatar.mp4",
+  "output_video": "final_output.mp4",
+  "avatar_size": [250, 250],
+  "start_time": 1,
+  "switch_time": 80,
+  "use_circular_mask": true
+}
